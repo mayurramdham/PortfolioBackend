@@ -61,8 +61,12 @@ jobs:
     steps:
       - name: Print Working Directory
         run: pwd
+      - name: Debug Directory Structure
+        run: ls -R
       - name: Run EF Core Migrations
-        run: |
+        run:  
           dotnet tool install --global dotnet-ef
+          dotnet restore Backend/Backend.csproj
           dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Backend/Backend.csproj
+
 
