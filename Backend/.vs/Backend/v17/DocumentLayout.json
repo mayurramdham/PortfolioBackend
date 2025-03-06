@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2525D74-6AEF-4D20-A728-64FF7379C782}|Backend.csproj|c:\\users\\mayur ramdham\\desktop\\myownportfolio\\portfoliobackend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2525D74-6AEF-4D20-A728-64FF7379C782}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7462753-080F-409F-B5E8-56A2F8E0B465}|..\\Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\myownportfolio\\portfoliobackend\\domain\\model\\projectforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -103,13 +107,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7462753-080F-409F-B5E8-56A2F8E0B465}|..\\Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\myownportfolio\\portfoliobackend\\domain\\model\\userforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2525D74-6AEF-4D20-A728-64FF7379C782}|Backend.csproj|c:\\users\\mayur ramdham\\desktop\\myownportfolio\\portfoliobackend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C2525D74-6AEF-4D20-A728-64FF7379C782}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Migrations\\20250305182543_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7462753-080F-409F-B5E8-56A2F8E0B465}|..\\Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\myownportfolio\\portfoliobackend\\domain\\entity\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -232,6 +229,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Database\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11372A5C-EC04-4207-9CA5-46A421AFDD93}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\myownportfolio\\portfoliobackend\\infrastructure\\migrations\\20250305182543_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -241,7 +241,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -254,19 +254,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UpdateProjectCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
-              "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
-              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
-              "RelativeToolTip": "..\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:01:19.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Project.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\Project.cs",
@@ -274,12 +261,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\Project.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:54:36.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T17:54:36.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DeleteProjectCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Command\\DeleteProjectCommand.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Projects\\Command\\DeleteProjectCommand.cs",
@@ -287,25 +273,24 @@
               "RelativeToolTip": "..\\App.Core\\Apps\\Projects\\Command\\DeleteProjectCommand.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:05:54.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:05:54.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProjectForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ProjectForUpdateDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ProjectForUpdateDto.cs",
               "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ProjectForUpdateDto.cs",
               "RelativeToolTip": "..\\Domain\\Model\\ProjectForUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T19:02:18.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
@@ -313,12 +298,11 @@
               "RelativeToolTip": "Controllers\\ProjectsController.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAgwFEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:15:10.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:15:10.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\AutoMapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\Apps\\AutoMapper\\MappingProfile.cs",
@@ -326,12 +310,36 @@
               "RelativeToolTip": "..\\App.Core\\Apps\\AutoMapper\\MappingProfile.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:42:19.414Z",
+              "WhenOpened": "2025-03-05T18:42:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T04:39:58.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "UpdateProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
+              "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
+              "RelativeToolTip": "..\\App.Core\\Apps\\Projects\\Command\\UpdateProjectCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:01:19.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProjectDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ProjectDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ProjectDto.cs",
@@ -339,12 +347,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ProjectDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:33:24.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:33:24.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\DependancyInjection.cs",
@@ -352,12 +359,11 @@
               "RelativeToolTip": "..\\App.Core\\DependancyInjection.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:44:35.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:44:35.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -370,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CreateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Command\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Command\\CreateUserCommand.cs",
@@ -378,12 +384,11 @@
               "RelativeToolTip": "..\\App.Core\\Apps\\Command\\CreateUserCommand.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:12:24.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:12:24.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ValidationDTO\\UserDtoValidator.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ValidationDTO\\UserDtoValidator.cs",
@@ -391,12 +396,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ValidationDTO\\UserDtoValidator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:23:02.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:23:02.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\UserDTO.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\UserDTO.cs",
@@ -404,12 +408,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:30:00.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:30:00.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreateProjectCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Command\\CreateProjectCommand.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Projects\\Command\\CreateProjectCommand.cs",
@@ -417,12 +420,11 @@
               "RelativeToolTip": "..\\App.Core\\Apps\\Projects\\Command\\CreateProjectCommand.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:59:22.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:59:22.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GetProjectsQuery.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Projects\\Query\\GetProjectsQuery.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Projects\\Query\\GetProjectsQuery.cs",
@@ -430,12 +432,11 @@
               "RelativeToolTip": "..\\App.Core\\Apps\\Projects\\Query\\GetProjectsQuery.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:55:18.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:55:18.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\Reponses\\ApiResponse.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\Reponses\\ApiResponse.cs",
@@ -443,25 +444,23 @@
               "RelativeToolTip": "..\\Domain\\Model\\Reponses\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:50:25.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:50:25.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "App.Core",
+              "DocumentIndex": 18,
+              "Title": "App.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\App.Core.csproj",
               "RelativeDocumentMoniker": "..\\App.Core\\App.Core.csproj",
               "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\App.Core.csproj",
               "RelativeToolTip": "..\\App.Core\\App.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T17:53:35.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T17:53:35.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -469,12 +468,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAzwDQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T04:26:00.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T04:26:00.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\DependancyInjection.cs",
@@ -482,12 +480,11 @@
               "RelativeToolTip": "..\\Infrastructure\\DependancyInjection.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:44:04.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:44:04.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Database\\AppDbContext.cs",
@@ -495,12 +492,11 @@
               "RelativeToolTip": "..\\Infrastructure\\Database\\AppDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:09:27.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:09:27.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ContactForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ContactForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ContactForCreationDto.cs",
@@ -508,12 +504,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ContactForCreationDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:38:44.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:38:44.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ContactDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ContactDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ContactDto.cs",
@@ -521,12 +516,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ContactDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:38:16.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:38:16.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "TestimonialForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\TestimonialForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\TestimonialForCreationDto.cs",
@@ -534,12 +528,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\TestimonialForCreationDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:37:52.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:37:52.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "TestimonialDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\TestimonialDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\TestimonialDto.cs",
@@ -547,12 +540,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\TestimonialDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:37:29.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:37:29.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EducationForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\EducationForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\EducationForCreationDto.cs",
@@ -560,12 +552,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\EducationForCreationDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:37:02.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:37:02.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "EducationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\EducationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\EducationDto.cs",
@@ -573,12 +564,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\EducationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:36:35.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:36:35.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ExperienceForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ExperienceForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ExperienceForCreationDto.cs",
@@ -586,12 +576,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ExperienceForCreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:35:58.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:35:58.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ExperienceDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ExperienceDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ExperienceDto.cs",
@@ -599,12 +588,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ExperienceDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:35:24.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:35:24.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "SkillForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\SkillForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\SkillForCreationDto.cs",
@@ -612,12 +600,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\SkillForCreationDto.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:34:46.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:34:46.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "SkillDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\SkillDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\SkillDto.cs",
@@ -625,12 +612,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\SkillDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:34:19.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:34:19.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ProjectForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\ProjectForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\ProjectForCreationDto.cs",
@@ -638,12 +624,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\ProjectForCreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:33:55.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:33:55.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "UserProfileForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\UserProfileForUpdateDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\UserProfileForUpdateDto.cs",
@@ -651,12 +636,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\UserProfileForUpdateDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:32:51.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:32:51.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "UserProfileDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\UserProfileDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\UserProfileDto.cs",
@@ -664,12 +648,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\UserProfileDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:31:45.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:31:45.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "UserForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Model\\UserForCreationDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Model\\UserForCreationDto.cs",
@@ -677,12 +660,11 @@
               "RelativeToolTip": "..\\Domain\\Model\\UserForCreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:31:15.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:31:15.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 74,
               "Title": "20250305182543_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Migrations\\20250305182543_InitialMigration.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250305182543_InitialMigration.cs",
@@ -690,12 +672,11 @@
               "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250305182543_InitialMigration.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:25:43.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:25:43.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\UserProfile.cs",
@@ -703,12 +684,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\UserProfile.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAxwA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:07:46.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:07:46.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\Skill.cs",
@@ -716,12 +696,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\Skill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:06:46.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:06:46.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "Education.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Education.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\Education.cs",
@@ -729,25 +708,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\Education.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:04:12.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:04:12.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-15T04:39:58.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Contact.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\Contact.cs",
@@ -755,12 +720,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:01:58.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:01:58.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Experience.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\Experience.cs",
@@ -768,12 +732,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\Experience.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:04:47.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:04:47.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Testimonial.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Testimonial.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\Testimonial.cs",
@@ -781,12 +744,11 @@
               "RelativeToolTip": "..\\Domain\\Entity\\Testimonial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:02:45.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:02:45.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\User.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entity\\User.cs",
@@ -794,25 +756,23 @@
               "RelativeToolTip": "..\\Domain\\Entity\\User.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:57:16.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T17:57:16.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Infrastructure",
+              "DocumentIndex": 43,
+              "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T18:08:22.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:08:22.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "20250305181547_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Migrations\\20250305181547_InitialMigration.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250305181547_InitialMigration.cs",
@@ -820,12 +780,11 @@
               "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250305181547_InitialMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:15:47.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:15:47.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "UserLoginQuery.cs",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\Apps\\Query\\UserLoginQuery.cs",
               "RelativeDocumentMoniker": "..\\App.Core\\Apps\\Query\\UserLoginQuery.cs",
@@ -833,25 +792,23 @@
               "RelativeToolTip": "..\\App.Core\\Apps\\Query\\UserLoginQuery.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwDEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:12:40.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:12:40.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Domain",
+              "DocumentIndex": 44,
+              "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
               "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Domain.csproj",
               "RelativeToolTip": "..\\Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T17:54:42.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T17:54:42.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "Backend.csproj",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\Backend.csproj",
               "RelativeDocumentMoniker": "Backend.csproj",
@@ -859,12 +816,11 @@
               "RelativeToolTip": "Backend.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T04:25:56.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T04:25:56.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "CreateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Apps\\Command\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Apps\\Command\\CreateUserCommand.cs",
@@ -875,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\LoginDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\LoginDTO.cs",
@@ -886,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "UserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\ValidationDTO\\UserDtoValidator.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\ValidationDTO\\UserDtoValidator.cs",
@@ -897,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\DependancyInjection.cs",
@@ -908,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "LoginDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\ValidationDTO\\LoginDtoValidator.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\ValidationDTO\\LoginDtoValidator.cs",
@@ -919,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Domain.csproj",
@@ -930,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "App.Core.csproj",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\App.Core.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\App.Core.csproj",
@@ -941,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "UserLoginQuery.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Apps\\Query\\UserLoginQuery.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Apps\\Query\\UserLoginQuery.cs",
@@ -952,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Service\\JwtService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Service\\JwtService.cs",
@@ -963,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\UserDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Model\\UserDTO.cs",
@@ -974,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\DependancyInjection.cs",
@@ -985,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "getAllUserQuery.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Apps\\Query\\getAllUserQuery.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Apps\\Query\\getAllUserQuery.cs",
@@ -996,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "IJwtService.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Interface\\IJwtService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\App.Core\\Interface\\IJwtService.cs",
@@ -1007,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Entity\\User.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Domain\\Entity\\User.cs",
@@ -1018,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Infrastructure.csproj",
@@ -1029,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "20241123091715_usermigration.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Migrations\\20241123091715_usermigration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Migrations\\20241123091715_usermigration.cs",
@@ -1040,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "20241123091518_usermigration.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Migrations\\20241123091518_usermigration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Migrations\\20241123091518_usermigration.cs",
@@ -1051,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 73,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\Assesment_6\\Infrastructure\\Database\\AppDbContext.cs",
@@ -1062,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "Backend.http",
               "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Backend\\Backend.http",
               "RelativeDocumentMoniker": "Backend.http",
@@ -1070,12 +1026,11 @@
               "RelativeToolTip": "Backend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-23T04:33:58.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T04:33:58.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\BackendStructure\\Infrastructure\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Common\\BackendStructure\\Infrastructure\\DependancyInjection.cs",
@@ -1086,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Infrastructure\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Infrastructure\\DependancyInjection.cs",
@@ -1097,7 +1052,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "IAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\Interface\\IAppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\Interface\\IAppDbContext.cs",
@@ -1108,7 +1063,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "CreateStudentCommand.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\Apps\\Command\\CreateStudentCommand.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\Apps\\Command\\CreateStudentCommand.cs",
@@ -1119,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Infrastructure\\Database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Infrastructure\\Database\\AppDbContext.cs",
@@ -1130,7 +1085,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Infrastructure\\Infrastructure.csproj",
@@ -1141,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\DependancyInjection.cs",
@@ -1152,7 +1107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\Domain\\Domain.csproj",
@@ -1163,7 +1118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "App.Core.csproj",
               "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\App.Core.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mayurramdham\\Desktop\\Mayur\\DotNetAssesmentMain\\Asssesment_2\\App.Core\\App.Core.csproj",
