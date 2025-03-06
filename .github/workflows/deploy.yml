@@ -21,7 +21,7 @@ jobs:
         run: ls -R
       
       - name: Restore Dependencies
-        run: dotnet restore C:\Users\mayurramdham\Desktop\FullStackPortfolio\PortfolioBackend\Backend
+        run: dotnet restore Backend/Backend.sln
       
       - name: Build Application
         run: dotnet build --configuration Release --no-restore
