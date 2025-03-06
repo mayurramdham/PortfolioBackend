@@ -66,7 +66,8 @@ jobs:
         run: ls -R
       
       - name: Run EF Core Migrations
+        working-directory: Infrastructure
         run: |
           dotnet tool install --global dotnet-ef
-          dotnet restore Infrastructure/Infrastructure.csproj
-          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Infrastructure/Infrastructure.csproj
+          dotnet restore Infrastructure.csproj
+          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Infrastructure.csproj
