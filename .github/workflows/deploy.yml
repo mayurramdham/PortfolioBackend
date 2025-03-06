@@ -64,7 +64,8 @@ jobs:
       - name: Debug Directory Structure
         run: ls -R
       - name: Run EF Core Migrations
-        run:  
+      - name: Run EF Core Migrations
+        run: |
           dotnet tool install --global dotnet-ef
           dotnet restore Backend/Backend.csproj
           dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Backend/Backend.csproj
