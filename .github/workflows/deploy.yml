@@ -33,7 +33,7 @@ jobs:
         run: dotnet publish Backend/Backend.sln -c Release -o ./publish
       
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4 # Updated to v4
+        uses: actions/upload-artifact@v4
         with:
           name: dotnet-app
           path: ./publish
@@ -43,7 +43,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download Artifact
-        uses: actions/download-artifact@v4 # Updated to v4
+        uses: actions/download-artifact@v4
         with:
           name: dotnet-app
           path: ./publish
@@ -61,13 +61,12 @@ jobs:
     steps:
       - name: Print Working Directory
         run: pwd
+      
       - name: Debug Directory Structure
         run: ls -R
-      - name: Run EF Core Migrations
+      
       - name: Run EF Core Migrations
         run: |
           dotnet tool install --global dotnet-ef
           dotnet restore Backend/Backend.csproj
           dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Backend/Backend.csproj
-
-
