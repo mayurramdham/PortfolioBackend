@@ -69,4 +69,4 @@ jobs:
         run: |
           dotnet tool install --global dotnet-ef
           dotnet restore Backend/Backend.sln
-          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Backend/Backend.csproj
+          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Backend/Backend.sln
