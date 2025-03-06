@@ -59,7 +59,10 @@ jobs:
     needs: deploy
     runs-on: ubuntu-latest
     steps:
+      - name: Print Working Directory
+        run: pwd
       - name: Run EF Core Migrations
         run: |
           dotnet tool install --global dotnet-ef
-          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}"
+          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Backend/Backend.csproj
+
