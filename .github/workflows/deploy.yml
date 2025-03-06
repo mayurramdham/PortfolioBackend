@@ -16,6 +16,9 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
+          
+      - name: Debug Directory Structure
+        run: ls -R
       
       - name: Restore Dependencies
         run: dotnet restore C:\Users\mayurramdham\Desktop\FullStackPortfolio\PortfolioBackend\Backend
