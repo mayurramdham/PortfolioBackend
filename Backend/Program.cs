@@ -8,6 +8,7 @@ using System.Text;
 
 namespace Backend
 {
+    //changes in program.cs
     public class Program
     {
         public static void Main(string[] args)
@@ -84,19 +85,33 @@ namespace Backend
             builder.Services.AddAuthentication();
 
             var app = builder.Build();
-            app.UseAuthorization();
+            app.UseHttpsRedirection();
             app.UseCors("MyPolicy");
 
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-
+            // Ensure app listens on all available ports (important for Azure App Service)
+            //var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+            //app.Urls.Add($"http://*:{port}");
+            app.UseAuthentication();
             app.UseAuthorization();
+
+
+            //      Configure the HTTP request pipeline.
+            //if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+            //{
+            //    app.UseSwagger();
+            //    app.UseSwaggerUI();
+            //}
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "CICDDemo API V1");
+                c.RoutePrefix = string.Empty; // Serve Swagger UI at root URL
+            });
+
+
+
+
 
 
             app.MapControllers();

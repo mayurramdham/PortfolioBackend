@@ -4093,19 +4093,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\": {}
+    "C:\\Users\\mayurramdham\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\mayurramdham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mayur Ramdham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mayurramdham\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4120,11 +4120,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\App.Core.csproj": {
-              "projectPath": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\App.Core\\App.Core.csproj"
+            "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\App.Core\\App.Core.csproj": {
+              "projectPath": "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\App.Core\\App.Core.csproj"
             },
-            "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Domain.csproj"
+            "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\Domain\\Domain.csproj"
             }
           }
         }
