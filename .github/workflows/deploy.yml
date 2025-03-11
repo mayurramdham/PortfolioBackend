@@ -59,14 +59,27 @@ jobs:
     needs: deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Print Working Directory
-        run: pwd
-      
-      - name: Debug Directory Structure
-        run: ls -R
-      
-      - name: Run EF Core Migrations
-        run: |
-          dotnet tool install --global dotnet-ef
-          dotnet restore Infrastructure/Infrastructure.csproj
-          dotnet ef database update --connection "${{ secrets.DATABASE_CONNECTION_STRING }}" --project Infrastructure/Infrastructure.csproj
+    - name: Checkout Code
+      uses: actions/checkout@v3
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.0.x'
+    
+    - name: Print Working Directory
+      run: pwd
+    
+    - name: Debug Directory Structure
+      run: ls -R
+    
+    - name: Install EF Core CLI Tool
+      run: dotnet tool install --global dotnet-ef
+
+    - name: Restore Project Dependencies
+      run: dotnet restore Infrastructure/Infrastructure.csproj
+
+    - name: Apply Database Migrations
+      env:
+        DATABASE_CONNECTION_STRING: ${{ secrets.DATABASE_CONNECTION_STRING }}
+      run: dotnet ef database update --connection "$DATABASE_CONNECTION_STRING" --project Infrastructure/Infrastructure.csproj --startup-project Backend/Backend.csproj
