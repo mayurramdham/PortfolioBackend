@@ -85,6 +85,11 @@ namespace Backend
             builder.Services.AddAuthentication();
 
             var app = builder.Build();
+
+            // Ensure app listens on all available ports (important for Azure App Service)
+            var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+            app.Urls.Add($"http://*:{port}");
+
             app.UseAuthorization();
             app.UseCors("MyPolicy");
 
