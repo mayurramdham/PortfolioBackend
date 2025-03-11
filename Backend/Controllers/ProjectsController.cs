@@ -20,7 +20,7 @@ namespace Backend.Controllers
         }
 
         // GET: api/projects
-        [HttpGet("getAllProject")]
+        [HttpGet]
         public async Task<ActionResult<ApiResponse<IEnumerable<ProjectDto>>>> GetProjects()
         {
             var query = new GetProjectsQuery();
