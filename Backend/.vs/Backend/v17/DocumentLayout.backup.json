@@ -249,7 +249,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -258,28 +258,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:07:46.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
-              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:06:46.526Z"
             },
             {
               "$type": "Document",
@@ -313,8 +291,7 @@
               "RelativeToolTip": "Controllers\\ProjectsController.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAYwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:15:10.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:15:10.64Z"
             },
             {
               "$type": "Document",
@@ -349,8 +326,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-15T04:39:58.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:39:58.455Z"
             },
             {
               "$type": "Document",
@@ -371,10 +347,32 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Portfollio\\PortfolioBackend\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwG0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T04:26:00.212Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\Skill.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:06:46.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Mayur Ramdham\\Desktop\\MyOwnPortfolio\\portfolioBackend\\Domain\\Entity\\UserProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:07:46.869Z"
             },
             {
               "$type": "Document",

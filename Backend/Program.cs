@@ -85,24 +85,33 @@ namespace Backend
             builder.Services.AddAuthentication();
 
             var app = builder.Build();
+            app.UseHttpsRedirection();
+            app.UseCors("MyPolicy");
 
             // Ensure app listens on all available ports (important for Azure App Service)
             //var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
             //app.Urls.Add($"http://*:{port}");
-
+            app.UseAuthentication();
             app.UseAuthorization();
-            app.UseCors("MyPolicy");
 
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+
+            //      Configure the HTTP request pipeline.
+            //if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+            //{
+            //    app.UseSwagger();
+            //    app.UseSwaggerUI();
+            //}
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
             {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "CICDDemo API V1");
+                c.RoutePrefix = string.Empty; // Serve Swagger UI at root URL
+            });
 
-            app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+
+
 
 
             app.MapControllers();
