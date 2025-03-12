@@ -39,8 +39,8 @@ namespace App.Core.Apps.AutoMapper
             CreateMap<TestimonialForCreationDto, Testimonial>();
 
             // Mapping for Contacts
-            CreateMap<Contact, ContactDto>();
-            CreateMap<ContactForCreationDto, Contact>();
+            //CreateMap<Domain.Entity.Contact, ContactDto>();
+            CreateMap<ContactDto, Domain.Entity.Contact>();
 
             // Mapping for User (Admin) – note that password is not mapped back
             CreateMap<User, UserDto>();
