@@ -39,6 +39,9 @@ namespace Infrastructure.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Subject")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("SubmittedAt")
                         .HasColumnType("datetime2");
 

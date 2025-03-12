@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Backend.Controllers.ContactController",
+    "Method": "AddContact",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactDto",
+        "Type": "Domain.Model.ContactDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Backend.Controllers.ProjectsController",
     "Method": "GetProjects",
     "RelativePath": "api/Projects",
