@@ -12,7 +12,9 @@ namespace Domain.Entity
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
+        [EmailAddress(ErrorMessage = "Invalid Email Address")]
         public string Email { get; set; }
+        public string Subject { get; set; }
         public string Message { get; set; }
         public DateTime SubmittedAt { get; set; } = DateTime.UtcNow;
     }

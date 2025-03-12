@@ -18,6 +18,8 @@ namespace Infrastructure
         {
             services.AddScoped<IAppDbContext,AppDbContext>();
             services.AddScoped<IJwtService, JwtService>();
+            services.AddScoped<IEmailService, EmailService>();
+            services.AddScoped<IEmailTemplateService, EmailTemplateService>();  
             services.AddDbContext<AppDbContext>((provider, options) =>
             {
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
